@@ -1,0 +1,6 @@
+{
+    "_comment": "This is an example of database configuration",
+    "firstName": "John",
+    "lastName": "Doe",
+    "age": 25
+}
